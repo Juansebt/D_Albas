@@ -7,4 +7,3 @@
 ● Andrés Felipe Quintero<br>
 ● Juan Esteban Diaz<br>
 ● Juan Sebastián Laguna<br>
-#
