@@ -6,4 +6,4 @@ Proyecto formativo del equipo WolfSoft para la empresa de D'Albas
  Kevin Andrés Ruiz -
  Andrés Felipe Quintero -
  Juan Esteban Diaz -
- Juan Sebastián Laguna -
+ Juan Sebastián Laguna 
