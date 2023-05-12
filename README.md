@@ -13,8 +13,8 @@ En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas ti
 
 | Nombre | GitHub | Foto |
 |--------|--------|------|
-| Juan Sebastián Laguna | [@juanperez](https://github.com/juanperez) | <img src="https://github.com/juanperez.png" width="50" height="50"> |
-| María García | [@mariagarcia](https://github.com/mariagarcia) | <img src="https://github.com/mariagarcia.png" width="50" height="50"> |
-| Carlos González | [@carlosgonzalez](https://github.com/carlosgonzalez) | <img src="https://github.com/carlosgonzalez.png" width="50" height="50"> |
+| Michelle Xiomara Morea Ninco | [@juanperez](https://github.com/juanperez) | <img src="https://github.com/juanperez.png" width="50" height="50"> |
+| Kevin Andrés Ruiz Camacho | [@mariagarcia](https://github.com/mariagarcia) | <img src="https://github.com/mariagarcia.png" width="50" height="50"> |
+| Andrés Felipe Quintero García | [@carlosgonzalez](https://github.com/carlosgonzalez) | <img src="https://github.com/carlosgonzalez.png" width="50" height="50"> |
 
 
