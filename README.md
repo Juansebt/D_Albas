@@ -3,10 +3,10 @@
 <hr>
 <h3>Miembros:</h3>
 <ul>
-  <li>Michelle Xiomara Morea</li>
-  <li>Kevin Andrés Ruiz</li>
-  <li>Andrés Felipe Quintero</li>
-  <li>Juan Esteban Diaz</li>
-  <li>Juan Sebastián Laguna</li>
+  <li>Michelle Xiomara Morea Ninco</li>
+  <li>Kevin Andrés Ruiz Camacho</li>
+  <li>Andrés Felipe Quintero García</li>
+  <li>Juan Esteban Diaz Jaramillo</li>
+  <li>Juan Sebastián Laguna Yara</li>
 </ul>
 <hr>
