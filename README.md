@@ -1,5 +1,5 @@
-# D'Albas_project
-<p>Proyecto formativo del equipo WolfSoft para la empresa de D'Albas.</p>
+<h1 align="center"> Proyecto - D'Albas </h1>
+<p align="center"> Proyecto formativo del equipo WolfSoft para la empresa de D'Albas. </p>
 <hr>
 <h3>Developer team:</h3>
 <ul>
