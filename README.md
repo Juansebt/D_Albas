@@ -1,7 +1,7 @@
 # D-Albas_project
 ---Proyecto formativo del equipo WolfSoft para la empresa de D'Albas---
 #
-<h3 style="text-align: center">Miembros:</h3><br>
+<h3>Miembros:</h3><br>
 <ul>
   <li>Michelle Xiomara Morea</li>
   <li>Kevin Andrés Ruiz</li>
