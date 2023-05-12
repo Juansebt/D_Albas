@@ -17,6 +17,6 @@ En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas ti
 | Kevin Andrés Ruiz Camacho | [@KevinRuizz](https://github.com/KevinRuizz) | <img src="https://github.com/KevinRuizz.png" width="50" height="50" style="border-radius: 50%;"> |
 | Andrés Felipe Quintero García | [@AndresF122](https://github.com/AndresF122) | <img src="https://github.com/AndresF122.png" width="50" height="50" style="border-radius: 50%;"> |
 | Juan Esteban Diaz Jaramillo | [@Juanito21Diaz](https://github.com/Juanito21Diaz) | <img src="https://github.com/Juanito21Diaz.png" width="50" height="50" style="border-radius: 50%;"> |
-| Juan Sebastián Laguna Yara | [@Juansebt](https://github.com/Juansebt) | <img src="https://github.com/Juansebt.png" width="50" height="50" border-radius: 50%;> |
+| Juan Sebastián Laguna Yara | [@Juansebt](https://github.com/Juansebt) | <img src="https://github.com/Juansebt.png" width="50" height="50" border-radius="50"> |
 
 
