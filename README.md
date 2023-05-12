@@ -1,7 +1,7 @@
 # D'Albas_project
-<p> --- Proyecto formativo del equipo WolfSoft para la empresa de D'Albas --- </p>
+<p>     Proyecto formativo del equipo WolfSoft para la empresa de D'Albas.     </p>
 <hr>
-<h3>Miembros:</h3>
+<h3>Developer team:</h3>
 <ul>
   <li>Michelle Xiomara Morea Ninco</li>
   <li>Kevin Andrés Ruiz Camacho</li>
