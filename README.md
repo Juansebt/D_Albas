@@ -8,6 +8,7 @@ Para lograr estos objetivos, el equipo WolfSoft trabajará en el diseño y desar
 
 En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas tiene como objetivo crear un software que permita a la pastelería ofrecer una experiencia de compra más eficiente y satisfactoria a sus clientes, y mejorar la administración de los pedidos. </p>
 
+#
 ## Developer team WolfSoft:
 
 | Nombre | GitHub | Foto |
