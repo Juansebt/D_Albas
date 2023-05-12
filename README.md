@@ -10,19 +10,11 @@ Para lograr estos objetivos, el equipo WolfSoft trabajará en el diseño y desar
 En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas tiene como objetivo crear un software que permita a la pastelería ofrecer una experiencia de compra más eficiente y satisfactoria a sus clientes, y mejorar la administración de los pedidos. </p>
 <hr>
 <h3>Developer team WolfSoft:</h3>
-<ul>
-  <li>Michelle Xiomara Morea Ninco</li>
-  <li>Kevin Andrés Ruiz Camacho</li>
-  <li>Andrés Felipe Quintero García</li>
-  <li>Juan Esteban Diaz Jaramillo</li>
-  <li>Juan Sebastián Laguna Yara</li>
-</ul>
-<hr>
-## Colaboradores
-
 | Nombre | GitHub |
 |--------|--------|
-| Juan Pérez | [@juanperez](https://github.com/juanperez) |
-| María García | [@mariagarcia](https://github.com/mariagarcia) |
-| Carlos González | [@carlosgonzalez](https://github.com/carlosgonzalez) |
-
+| Michelle Xiomara Morea Ninco | [@juanperez](https://github.com/juanperez) |
+| Kevin Andrés Ruiz Camacho | [@mariagarcia](https://github.com/mariagarcia) |
+| Andrés Felipe Quintero García | [@carlosgonzalez](https://github.com/carlosgonzalez) |
+| Juan Esteban Diaz Jaramillo | [@carlosgonzalez](https://github.com/carlosgonzalez) |
+| Juan Sebastián Laguna Yara | [@carlosgonzalez](https://github.com/carlosgonzalez) |
+<hr>
