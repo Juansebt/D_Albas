@@ -10,7 +10,6 @@ En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas ti
 <br>
 ## Developer team WolfSoft:
 > Personas encargadas de llevar a cabo el proyecto
-
 | Nombre | GitHub | Foto |
 |--------|--------|------|
 | Michelle Xiomara Morea Ninco | [@Mizyel](https://github.com/Mizyel) | <img src="https://github.com/Mizyel.png" width="50" height="50"> |
