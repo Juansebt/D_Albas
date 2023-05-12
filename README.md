@@ -14,7 +14,7 @@ En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas ti
 | Nombre | GitHub | Foto |
 |--------|--------|------|
 | Michelle Xiomara Morea Ninco | [@Mizyel](https://github.com/Mizyel) | <img src="https://github.com/Mizyel.png" width="50" height="50"> |
-| Kevin Andrés Ruiz Camacho | [@mariagarcia](https://github.com/mariagarcia) | <img src="https://github.com/Mizyel.png" width="50" height="50"> |
+| Kevin Andrés Ruiz Camacho | [@KevinRuizz](https://github.com/KevinRuizz) | <img src="https://github.com/KevinRuizz.png" width="50" height="50"> |
 | Andrés Felipe Quintero García | [@carlosgonzalez](https://github.com/carlosgonzalez) | <img src="https://github.com/carlosgonzalez.png" width="50" height="50"> |
 | Juan Esteban Diaz Jaramillo | [@carlosgonzalez](https://github.com/carlosgonzalez) | <img src="https://github.com/carlosgonzalez.png" width="50" height="50"> |
 | Juan Sebastián Laguna Yara | [@carlosgonzalez](https://github.com/carlosgonzalez) | <img src="https://github.com/carlosgonzalez.png" width="50" height="50"> |
