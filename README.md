@@ -18,3 +18,11 @@ En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas ti
   <li>Juan Sebastián Laguna Yara</li>
 </ul>
 <hr>
+## Colaboradores
+
+| Nombre | GitHub |
+|--------|--------|
+| Juan Pérez | [@juanperez](https://github.com/juanperez) |
+| María García | [@mariagarcia](https://github.com/mariagarcia) |
+| Carlos González | [@carlosgonzalez](https://github.com/carlosgonzalez) |
+
