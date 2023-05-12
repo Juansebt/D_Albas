@@ -1,5 +1,7 @@
 <h1 align="center"> Proyecto formativo - D'Albas </h1>
 
+#
+
 <p> El proyecto formativo del equipo WolfSoft tiene como objetivo crear un software para la empresa D'Albas, una pastelería que busca ofrecer una experiencia de compra más eficiente y satisfactoria a sus clientes. El software que se desarrollará permitirá a los clientes acceder a la amplia variedad de productos que ofrece D'Albas, realizar pedidos y comunicarse con la pastelería de manera más eficiente.
 
 La finalidad de este proyecto es cubrir las necesidades de los clientes de D'Albas, quienes podrán utilizar el software para comunicarse y realizar sus pedidos de manera más fácil y eficaz. Además, el software también permitirá a la pastelería administrar sus pedidos de forma más eficiente, lo que mejorará la calidad del servicio que ofrece.
@@ -11,6 +13,8 @@ En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas ti
 #
 
 ## Developer team WolfSoft:
+
+#
 
 | Nombre | GitHub | Foto |
 |--------|--------|------|
