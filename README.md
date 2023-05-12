@@ -9,8 +9,3 @@
   <li>Juan Esteban Diaz</li>
   <li>Juan Sebastián Laguna</li>
 </ul>
-● Michelle Xiomara Morea<br>
-● Kevin Andrés Ruiz<br>
-● Andrés Felipe Quintero<br>
-● Juan Esteban Diaz<br>
-● Juan Sebastián Laguna<br>
