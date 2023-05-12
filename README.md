@@ -11,7 +11,7 @@ En resumen, el proyecto formativo del equipo WolfSoft para la empresa D'Albas ti
 #
 ## Developer team WolfSoft:
 
-| Nombre | GitHub | Picture |
+| Nombre | GitHub | Foto |
 |--------|--------|------|
 | Michelle Xiomara Morea Ninco | [@Mizyel](https://github.com/Mizyel) | <img src="https://github.com/Mizyel.png" width="50" height="50"> |
 | Kevin Andrés Ruiz Camacho | [@KevinRuizz](https://github.com/KevinRuizz) | <img src="https://github.com/KevinRuizz.png" width="50" height="50"> |
