@@ -16,4 +16,4 @@
 | Juan Esteban Diaz Jaramillo | [@Juanito21Diaz](https://github.com/Juanito21Diaz) | <img src="https://github.com/Juanito21Diaz.png" width="50" height="50"> |
 | Juan Sebastián Laguna Yara | [@Juansebt](https://github.com/Juansebt) | <img src="https://github.com/Juansebt.png" width="50" height="50"> |
 
-
+> Análisis y Desarollo de Software - SENA 2023 ©
